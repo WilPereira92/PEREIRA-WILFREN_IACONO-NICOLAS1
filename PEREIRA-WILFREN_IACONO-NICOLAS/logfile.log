@@ -13,3 +13,6 @@
 [2023-10-26 22:30:24] [ INFO ] [OdontologoDAOEnMemoria:19] Se registró el odontólogo = Odontologo{id=1, numeroMatricula=852147, nombre='Ricardo', apellido='Arjona'}
 [2023-10-26 22:30:24] [ INFO ] [OdontologoDAOEnMemoria:19] Se registró el odontólogo = Odontologo{id=1, numeroMatricula=84526, nombre='Daniel', apellido='Pereira'}
 [2023-10-26 22:30:24] [ INFO ] [OdontologoDAOEnMemoria:25] Listado de todos los odontólogos [Odontologo{id=1, numeroMatricula=852147, nombre='Ricardo', apellido='Arjona'}, Odontologo{id=1, numeroMatricula=84526, nombre='Daniel', apellido='Pereira'}]
+[2023-10-26 22:45:09] [ INFO ] [OdontologoDAOH2:77] Lista de todos los odontólogos = [Odontologo{id=1, numeroMatricula=123456, nombre='Nico', apellido='Iacono'}, Odontologo{id=2, numeroMatricula=654321, nombre='Wil', apellido='Pereira'}]
+[2023-10-26 22:45:10] [ INFO ] [OdontologoDAOEnMemoria:25] Listado de todos los odontólogos []
+[2023-10-26 22:46:50] [ INFO ] [OdontologoDAOEnMemoria:25] Listado de todos los odontólogos []

@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03016034-c02c-4fcc-9fe0-a48b32b08bc6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PEREIRA-WILFREN_IACONO-NICOLAS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PEREIRA-WILFREN_IACONO-NICOLAS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/backend/parcial/test/OdontologoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/backend/parcial/test/OdontologoServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <recent name="com.backend.parcial.test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.OdontologoServiceTest">
+  <component name="RunManager" selected="JUnit.OdontologoServiceTest.listarTodosLosOdontologosEnMemoria">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.backend.parcial.Application" />
       <module name="PEREIRA-WILFREN_IACONO-NICOLAS" />
@@ -86,8 +84,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OdontologoServiceTest.listarTodosLosOdontologosEnMemoria" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PEREIRA-WILFREN_IACONO-NICOLAS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.backend.parcial.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.backend.parcial.test" />
+      <option name="MAIN_CLASS_NAME" value="com.backend.parcial.test.OdontologoServiceTest" />
+      <option name="METHOD_NAME" value="listarTodosLosOdontologosEnMemoria" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OdontologoServiceTest.listarTodosLosOdontologosEnMemoria" />
         <item itemvalue="JUnit.OdontologoServiceTest" />
         <item itemvalue="Application.Application" />
       </list>
